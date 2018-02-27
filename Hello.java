@@ -1,3 +1,4 @@
+// This is test message
 public class Hello {
 	
 	public static void main (String[] args) {
